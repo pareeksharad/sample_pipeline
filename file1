@@ -1,0 +1,2 @@
+echo "This is Build stage"
+dir
